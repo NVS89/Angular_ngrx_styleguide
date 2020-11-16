@@ -284,7 +284,7 @@ Always use double quotes (") for HTML attributes, but single quotes (') for all 
 * Use `camelCase` for variable and function names
 
 order of functions and variables:
-* Public at the begining.
+* Public variable and function at the begining.
 * Getters - right after below all class fields.
 
 > Reason: Conventional JavaScript
