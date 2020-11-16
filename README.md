@@ -283,6 +283,10 @@ Always use double quotes (") for HTML attributes, but single quotes (') for all 
 ## Variable and Function
 * Use `camelCase` for variable and function names
 
+order of functions and variables:
+* Public at the begining.
+* Getters - right after below all class fields.
+
 > Reason: Conventional JavaScript
 
 **Bad**
